@@ -1,1 +1,1 @@
-# ames_project
+# Ames Project
